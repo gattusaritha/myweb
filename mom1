@@ -5,3 +5,8 @@ maven
 tomcat
 argocd
 ansible
+docker
+kubernetes
+nexus
+sonarqube
+
